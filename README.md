@@ -9,8 +9,7 @@ plified automation through programming, and enhanced security through
  vulnerable, particularly to distributed denial-of-service (DDoS) attacks
  that flood the network with traffic, hindering legitimate user access.This
  paper proposes a solution for SDN environments, where DDoS attacks are
- prevalent. The method combines statistical analysis to pinpoint abnor
-mal traffic patterns with deep learning for automated attack detection and
+ prevalent. The method combines statistical analysis to pinpoint abnormal traffic patterns with deep learning for automated attack detection and
  mitigation. This approach, tested with an SDN controller and network
  simulator, achieved a 99.75% accuracy rate in identifying DDoS attacks
  detection rate. Upon attack detection, the system automatically blocks
